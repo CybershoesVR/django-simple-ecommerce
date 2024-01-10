@@ -1,5 +1,5 @@
 import os
-import environ
+import environ #pip install django-environ
 
 env = environ.Env()
 
